@@ -1,6 +1,3 @@
-<a  href="https://www.linkedin.com/in/hitik-saini-042691193/"><img src="https://github.com/hitiksaini/hitiksaini/blob/master/logo/linkedin.png" width="40" /></a> &nbsp; 
-<a  href="https://www.instagram.com/hitik_20/"><img src="https://github.com/hitiksaini/hitiksaini/blob/master/logo/instagram.png" width="40" /></a> &nbsp; 
-<a  href="https://twitter.com/SainiHitik"><img src="https://github.com/hitiksaini/hitiksaini/blob/master/logo/twitter.png" width="40" /></a>
 
 
 <!--
