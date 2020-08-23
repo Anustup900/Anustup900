@@ -1,4 +1,7 @@
-### Hi there 👋
+<a  href="https://www.linkedin.com/in/hitik-saini-042691193/"><img src="https://github.com/hitiksaini/hitiksaini/blob/master/logo/linkedin.png" width="40" /></a> &nbsp; 
+<a  href="https://www.instagram.com/hitik_20/"><img src="https://github.com/hitiksaini/hitiksaini/blob/master/logo/instagram.png" width="40" /></a> &nbsp; 
+<a  href="https://twitter.com/SainiHitik"><img src="https://github.com/hitiksaini/hitiksaini/blob/master/logo/twitter.png" width="40" /></a>
+
 
 <!--
 **Anustup900/Anustup900** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
